@@ -81,7 +81,7 @@
     },
     "dependencies": {
         "@babel/core": "^7.4.4",
-        "@babel/parser": "^7.4.4",
+        "@babel/parser": "^7.5.0",
         "ajv": "^6.10.0",
         "app-root-path": "^2.2.1",
         "babylon-walk": "^1.0.2",
