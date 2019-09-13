@@ -41,7 +41,7 @@
     "homepage": "https://github.com/stricter/stricter#readme",
     "devDependencies": {
         "@babel/preset-env": "^7.6.0",
-        "@babel/preset-typescript": "^7.3.3",
+        "@babel/preset-typescript": "^7.6.0",
         "@types/app-root-path": "^1.2.4",
         "@types/babel-types": "^7.0.7",
         "@types/babel__core": "^7.1.1",
